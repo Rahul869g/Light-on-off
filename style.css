@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+button {
+  outline: none;
+  padding: 10px 30px;
+  font-size: larger;
+  font-weight: 600;
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+  border-radius: 7px;
+  display: block;
+  margin: 10px auto;
+}
+h1 {
+  margin: 2em auto;
+}
+img {
+  padding: 1em;
+  width: 200px;
+  height: auto;
+}
+.container-flex {
+  padding: 1em;
+  margin: 1em auto;
+}
